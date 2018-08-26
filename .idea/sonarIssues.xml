@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-apache-fop/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-apache-fop/src/main/java/com/scorpion/demo/ApacheFOPDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-apache-fop/src/main/java/com/scorpion/demo/Book.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-apache-fop/src/main/java/com/scorpion/demo/Books.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-apache-fop/src/main/resources/template.xsl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/DocsToPdfApiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/factory/ConverterFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/factory/DocType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/utils/FileHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-converter/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-converter/src/main/java/com/scorpion/docstopdfconverter/MainClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/AbstractConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/Converter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/ConverterFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/DocsToHtmlConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/DocsToPdfConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/GoogleConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/HtmlToPdfConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/MammothDocs2PdfConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/PdfConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/cloudmersive/CloudmersiveDocs2PdfConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/google/DriverServiceFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/google/GoogleDownloader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/google/GoogleUploader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/FileHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/GoogleMimeType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/exception/Docs2PdfConverterException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/resources/client_secret_1010795356772-khtgant8sf9qfc82pau9dvds2530drrp.apps.googleusercontent.com.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/resources/credentials.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-core/src/main/java/com/scorpion/converter/DocsToHtmlConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-core/src/main/java/com/scorpion/converter/HtmlToPdfConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

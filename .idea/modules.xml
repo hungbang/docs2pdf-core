@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/docs-to-pdf-api/docs-to-pdf-api.iml" filepath="$PROJECT_DIR$/docs-to-pdf-api/docs-to-pdf-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs-to-pdf-parrent.iml" filepath="$PROJECT_DIR$/docs-to-pdf-parrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docs2pdf-apache-poi/docs2pdf-apache-poi.iml" filepath="$PROJECT_DIR$/docs2pdf-apache-poi/docs2pdf-apache-poi.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+
+¬%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(±¹‰°8§°ç‹×,
+"squid:ClassVariableVisibilityCheck"WMake inputStream a static final constant or non-public and provide accessors if needed.(êÏúÿÿÿÿ8¨¯Ó‹×,
+Msquid:S1481"1Remove this unused "htmlSettings" local variable.(¶—‹Õ8ÌŒ×,
+Bsquid:S1170"!Make this final field static too.(‰ö˜¬ÿÿÿÿÿ8“Å•Œ×,
+Fsquid:S00108")Either remove or fill this block of code.(ÚÓòµ8×¯Œ×,

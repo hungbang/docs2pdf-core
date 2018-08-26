@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.Cloudmersive:Cloudmersive.APIClient.Java:v2.12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/Cloudmersive/Cloudmersive.APIClient.Java/v2.12/Cloudmersive.APIClient.Java-v2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/Cloudmersive/Cloudmersive.APIClient.Java/v2.12/Cloudmersive.APIClient.Java-v2.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/Cloudmersive/Cloudmersive.APIClient.Java/v2.12/Cloudmersive.APIClient.Java-v2.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

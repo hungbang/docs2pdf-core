@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="docs-to-pdf-api" />
+        <module name="docs2pdf-apache-poi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="docs-to-pdf-apache-fop" target="1.8" />
+      <module name="docs-to-pdf-api" target="1.8" />
+      <module name="docs-to-pdf-converter" target="1.7" />
+      <module name="docs-to-pdf-core" target="1.8" />
+      <module name="docs-to-pdf-parrent" target="1.8" />
+      <module name="docs2pdf-apache-poi" target="1.8" />
+      <module name="jodconverter-core" target="1.6" />
+      <module name="jodconverter-sample-webapp" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
