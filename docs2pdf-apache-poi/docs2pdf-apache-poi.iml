@@ -11,9 +11,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.apache.poi:poi:3.17" level="project" />
-    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
+    <orderEntry type="library" name="MsWordToImageConvert" level="project" />
+    <orderEntry type="library" name="adobe-generatepdf-client-10.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.docx4j:docx4j:6.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.plutext:jaxb-svg11:1.0.2" level="project" />
     <orderEntry type="library" name="Maven: net.engio:mbassador:1.2.4.2" level="project" />
@@ -23,6 +22,7 @@
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.7" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.12" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.11" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.10" level="project" />
@@ -85,6 +85,8 @@
     <orderEntry type="library" name="Maven: com.itextpdf:itextpdf:5.5.10" level="project" />
     <orderEntry type="library" name="Maven: com.itextpdf.tool:xmlworker:5.5.10" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:3.15" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-collections4:4.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-schemas:3.15" level="project" />
     <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:2.6.0" level="project" />
     <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
@@ -117,9 +119,43 @@
     <orderEntry type="library" name="Maven: com.squareup.okhttp:okhttp:2.7.5" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.6.0" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okhttp:logging-interceptor:2.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tika:tika-core:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tika:tika-parsers:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.gagravarr:vorbis-java-tika:0.6" level="project" />
+    <orderEntry type="library" name="Maven: edu.ucar:netcdf:4.2.20" level="project" />
+    <orderEntry type="library" name="Maven: edu.ucar:unidataCommon:4.2.20" level="project" />
+    <orderEntry type="library" name="Maven: net.jcip:jcip-annotations:1.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-httpclient:commons-httpclient:3.1" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.jmatio:jmatio:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.james:apache-mime4j-core:0.7.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.james:apache-mime4j-dom:0.7.2" level="project" />
+    <orderEntry type="library" name="Maven: org.tukaani:xz:1.5" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcmail-jdk15:1.45" level="project" />
+    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk15:1.45" level="project" />
+    <orderEntry type="library" name="Maven: org.ccil.cowan.tagsoup:tagsoup:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-debug-all:4.1" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.mp4parser:isoparser:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjrt:1.8.13" level="project" />
+    <orderEntry type="library" name="Maven: com.drewnoakes:metadata-extractor:2.6.2" level="project" />
+    <orderEntry type="library" name="Maven: com.adobe.xmp:xmpcore:5.1.2" level="project" />
+    <orderEntry type="library" name="Maven: de.l3s.boilerpipe:boilerpipe:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: rome:rome:1.0" level="project" />
+    <orderEntry type="library" name="Maven: jdom:jdom:1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.gagravarr:vorbis-java-core:0.6" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.juniversalchardet:juniversalchardet:1.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.uwyn:jhighlight:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.pff:java-libpst:0.8.1" level="project" />
+    <orderEntry type="library" name="Maven: org.alfresco:alfresco-jodconverter-core:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.openoffice:juh:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.openoffice:jurt:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.openoffice:ridl:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.openoffice:unoil:3.2.1" level="project" />
   </component>
   <component name="sonarModuleSettings">
+    <option name="alternativeWorkingDirPath" value="" />
     <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
     <option name="serverName" value="&lt;PROJECT&gt;" />
+    <option name="useAlternativeWorkingDir" value="false" />
+    <option name="workingDirSelection" value="&lt;MODULE&gt;" />
   </component>
 </module>

@@ -2,6 +2,7 @@ package com.scorpion.converter;
 
 import com.scorpion.converter.utils.FileHelper;
 import org.docx4j.Docx4J;
+import org.docx4j.convert.out.HTMLSettings;
 import org.docx4j.openpackaging.exceptions.Docx4JException;
 import org.docx4j.openpackaging.packages.WordprocessingMLPackage;
 import org.slf4j.Logger;
@@ -40,10 +41,17 @@ public class DocsToPdfConverter {
         this.inputStream = new FileInputStream(new File(this.path));
         WordprocessingMLPackage wordMLPackage = WordprocessingMLPackage
                 .load(this.inputStream);
-        String output = FileHelper.generateDestinationFileName(this.path, "pdf");
-        try (OutputStream outputStream = new FileOutputStream(new File(FileHelper.baseDir + File.separator + output))) {
+        String outputPdf = FileHelper.generateDestinationFileName(this.path, "pdf");
+        String outputHtml = FileHelper.generateDestinationFileName(this.path, "html");
+        try (OutputStream outputStream = new FileOutputStream(new File(FileHelper.baseDir + File.separator + outputPdf))) {
             Docx4J.toPDF(wordMLPackage, outputStream);
         }
-        LOGGER.info(FileHelper.baseDir + File.separator + output);
+
+        HTMLSettings htmlSettings = new HTMLSettings();
+        htmlSettings.setWmlPackage(wordMLPackage);
+        try (OutputStream outputStream = new FileOutputStream(new File(FileHelper.baseDir + File.separator + outputHtml))) {
+            Docx4J.toHTML(htmlSettings, outputStream, 2);
+        }
+        LOGGER.info(FileHelper.baseDir + File.separator + outputPdf);
     }
 }

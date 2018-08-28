@@ -11,5 +11,5 @@ import java.io.IOException;
  * All rights reserved.
  */
 public interface Converter {
-    public void convert() throws Docs2PdfConverterException;
+    String convert() throws Docs2PdfConverterException;
 }

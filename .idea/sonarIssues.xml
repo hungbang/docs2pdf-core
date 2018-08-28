@@ -3,6 +3,21 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/icap/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/docs-to-pdf-apache-fop/pom.xml">
           <value>
             <set />
@@ -38,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/api/ConvertController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/factory/ConverterFactory.java">
           <value>
             <set />
@@ -49,6 +69,81 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/utils/FileHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/ConversionDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/ConversionDtoBuilder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/ConversionResultDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/ConvertManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/ConvertService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/DataDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/dto/ConversionDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/dto/ConvertPair.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/dto/ConvertResultDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/dto/FileResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/dto/FileType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/dto/InputType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/service/ConvertService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/service/ConvertServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs-to-pdf-api/src/main/resources/application.properties">
           <value>
             <set />
           </value>
@@ -69,6 +164,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/Docs2ImageConverter.java">
           <value>
             <set />
           </value>
@@ -118,6 +218,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/ServiceClientFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/adobe/Doc2Pdf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/adobe/GeneratePdfServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/adobe/ServiceClientFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/cloudmersive/CloudmersiveDocs2PdfConverter.java">
           <value>
             <set />
@@ -144,6 +264,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/GoogleMimeType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/webservice/ConversionDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/webservice/ConvertService.java">
           <value>
             <set />
           </value>
@@ -184,6 +314,26 @@
           </value>
         </entry>
         <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="restClient/response5.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="restClient/response6.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="restClient/response7.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="restClient/response8.txt">
           <value>
             <set />
           </value>

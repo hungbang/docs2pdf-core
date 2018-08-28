@@ -1,7 +1,7 @@
 package com.scorpion;
 
-import com.scorpion.converter.MammothDocs2PdfConverter;
-import com.scorpion.converter.cloudmersive.CloudmersiveDocs2PdfConverter;
+import com.scorpion.converter.DocsToHtmlConverter;
+import com.scorpion.converter.DocsToPdfConverter;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -15,7 +15,11 @@ public class DocsToPdfApiApplication {
 
     public static void convertWithDocsToPdf() throws Exception {
         String input = "/Users/KAI/Downloads/temp14_20-Aug-2018_09-49-22-497.docx";
-        CloudmersiveDocs2PdfConverter.asConverter().path(input).convert();
+        String path = DocsToHtmlConverter.asConverter().path(input).convert();
+        DocsToPdfConverter.asConverter().path(path).convert();
     }
+
+
+
 
 }

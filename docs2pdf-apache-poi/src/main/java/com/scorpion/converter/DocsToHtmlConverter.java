@@ -43,7 +43,7 @@ public class DocsToHtmlConverter implements Converter{
         return inputStream;
     }
 
-    public void convert() throws Docs2PdfConverterException {
+    public String convert() throws Docs2PdfConverterException {
        try{
            this.inputStream = new FileInputStream(new File(this.path));
            WordprocessingMLPackage wordMLPackage = WordprocessingMLPackage
@@ -57,6 +57,8 @@ public class DocsToHtmlConverter implements Converter{
            try (OutputStream outputStream = new FileOutputStream(new File(FileHelper.baseDir + File.separator + output))) {
                exporter.export(htmlSettings, outputStream);
            }
+
+           return FileHelper.baseDir + File.separator + output;
        }catch (IOException | Docx4JException e){
            LOGGER.error(getClass().getSimpleName(), e);
            throw new Docs2PdfConverterException();

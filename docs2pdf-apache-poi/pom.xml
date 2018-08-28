@@ -17,14 +17,24 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+        <repository>
+            <id>mvnrepository.com</id>
+            <url>https://mvnrepository.com/artifact/net.sf.jacob-project/jacob</url>
+        </repository>
+
+        <repository>
+            <id>alfresco-maven-repo</id>
+            <url>https://artifacts.alfresco.com/nexus/content/groups/public</url>
+        </repository>
+
     </repositories>
 
     <dependencies>
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi</artifactId>
-            <version>3.17</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.apache.poi</groupId>-->
+            <!--<artifactId>poi</artifactId>-->
+            <!--<version>3.17</version>-->
+        <!--</dependency>-->
 
         <dependency>
             <groupId>org.docx4j</groupId>
@@ -119,6 +129,24 @@
             <groupId>com.github.Cloudmersive</groupId>
             <artifactId>Cloudmersive.APIClient.Java</artifactId>
             <version>v2.12</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/net.sf.jacob-project/jacob -->
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-core</artifactId>
+            <version>1.6</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.tika</groupId>
+            <artifactId>tika-parsers</artifactId>
+            <version>1.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.alfresco</groupId>
+            <artifactId>alfresco-jodconverter-core</artifactId>
+            <version>3.0.1</version>
         </dependency>
 
     </dependencies>
