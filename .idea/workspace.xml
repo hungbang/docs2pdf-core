@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cad3fe-7343-4fbb-bbf1-5ddffdcb91c2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ " afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/book.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp14_20-Aug-2018_09-49-22-497.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp14_20-Aug-2018_09-49-22-497.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/temp14_20-Aug-2018_09-49-22-497.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e674167b813101d062e9b0e690d0ee8e99b8eb01" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e674167b813101d062e9b0e690d0ee8e99b8eb01" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd689c7160016b7c55784479f6154f4244f2c65a" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd689c7160016b7c55784479f6154f4244f2c65a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/Converter.class" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/Converter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/DocsToHtmlConverter.class" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/DocsToHtmlConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/DocsToPdfConverter.class" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/DocsToPdfConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/cloudmersive/CloudmersiveDocs2PdfConverter.class" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/cloudmersive/CloudmersiveDocs2PdfConverter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/utils/FileHelper.class" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/target/classes/com/scorpion/converter/utils/FileHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs-to-pdf-api/pom.xml" afterPath="$PROJECT_DIR$/docs-to-pdf-api/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/DocsToPdfApiApplication.java" afterPath="$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/DocsToPdfApiApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs-to-pdf-api/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/docs-to-pdf-api/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/docs2pdf-apache-poi.iml" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/docs2pdf-apache-poi.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/pom.xml" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/Converter.java" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/Converter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/DocsToHtmlConverter.java" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/DocsToHtmlConverter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/DocsToPdfConverter.java" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/DocsToPdfConverter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/FileHelper.java" afterPath="$PROJECT_DIR$/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/FileHelper.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,8 +41,8 @@
       <file leaf-file-name="ConvertServiceImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/service/ConvertServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+            <state relative-caret-position="658">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -438,6 +414,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="docs-to-pdf-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scorpion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs-to-pdf-parrent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs-to-pdf-parrent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="docs2pdf-apache-poi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -601,6 +611,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="FileH&#9;FILE&#9;file:///Users/KAI/PROJECT/JAVA/docs-to-pdf-parrent/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/FileHelper.java&#10;FileHe&#9;FILE&#9;file:///Users/KAI/PROJECT/JAVA/docs-to-pdf-parrent/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/FileHelper.java&#10;File&#9;FILE&#9;file:///Users/KAI/PROJECT/JAVA/docs-to-pdf-parrent/docs2pdf-apache-poi/src/main/java/com/scorpion/converter/utils/FileHelper.java&#10;App&#9;FILE&#9;file:///Users/KAI/PROJECT/JAVA/docs-to-pdf-parrent/docs-to-pdf-api/src/main/java/com/scorpion/DocsToPdfApiApplication.java&#10;Docs&#9;FILE&#9;file:///Users/KAI/PROJECT/JAVA/docs-to-pdf-parrent/docs-to-pdf-api/src/main/java/com/scorpion/DocsToPdfApiApplication.java&#10;PdfSett&#9;FILE&#9;jar:///Users/KAI/.m2/repository/org/docx4j/docx4j/3.2.1/docx4j-3.2.1.jar!/org/docx4j/convert/out/pdf/viaXSLFO/PdfSettings.class" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateBuilderDialog.RecentsKey">
@@ -738,6 +749,116 @@
         </RestClientRequest>
       </list>
     </option>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1252,16 +1373,23 @@
       <workItem from="1535157325710" duration="9139000" />
       <workItem from="1535208270072" duration="30380000" />
       <workItem from="1535294122168" duration="10529000" />
-      <workItem from="1535461783003" duration="8121000" />
+      <workItem from="1535461783003" duration="8263000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new code">
+      <created>1535473696544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535473696544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58169000" />
+    <option name="totallyTimeSpent" value="58311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1384" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1282,7 +1410,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1307,6 +1435,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1423,6 +1555,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1475,6 +1608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1382">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1566,6 +1700,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1747,8 +1884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs-to-pdf-api/src/main/java/com/scorpion/webservice/service/ConvertServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        <state relative-caret-position="658">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
